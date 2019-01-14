@@ -8,4 +8,16 @@ labels:
   - Javascript
   - Learning
 ---
-This will be an essay about my experience with JS so far.
+<h1> Two Weeks of Smelling the Javascript </h1>
+
+<h2> Waking to Javascript </h2>
+ 
+<p> </p>
+ 
+<h2> The Smoother Cup of Joe </h2>
+
+<p> </p>
+
+<h2> A Daily Grind </h2>
+
+<p> </p>
