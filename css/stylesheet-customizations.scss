@@ -7,8 +7,16 @@
 
 // Customize the background color
 body {
-  background-color: coral;
-
+ // background-color: peachpuff;
+ 
+  backgroundColor {
+        background-color: #FFDAB9;
+        color: white;
+    }
+   backgroundGradient {
+        background: linear-gradient(to bottom, white, #FFDAB9);
+        color: white;
+    }
 }
 
 // Customize the menubar color
