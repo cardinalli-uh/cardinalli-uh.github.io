@@ -27,14 +27,15 @@ Prior to these past two weeks, I had a generally negative impression of Javascri
 
 Two community college semesters of Java, capped by two weeks of Javascript makes me an expert in neither.  Certainly, it will take several more years of study and practice - even after I have attained my degree - before I can hope to be competitive.  However, there are clear and unavoidable distinctions between the two that even a novice programmer will notice immediately.  Personally, the first thing I noticed when beginning to work with Javascript was how intuitive it is when compared to Java.  For instance, where Java requires specific identification of variables by data-type, ie.: int, float, double, char, string, etc.; Javascript allows the developer to simply: let variable = x; such that Javascript automatically detects and interprets the data-type.
 
-```ruby
+```java
 // Java example:
 
 	int integer = 1;
-	double double = 1.55;
-	char char = ‘a’;
-	string string = “bcde”;
-
+	double number = 1.55;
+	char letter = ‘a’;
+	String string = “bcde”;
+```
+```javascript
 // Javascript example:
 
 	let integer = 1;
