@@ -15,7 +15,10 @@ labels:
 <h2> Waking Up to Javascript </h2>
  
 
-Prior to these past two weeks, I had a generally negative impression of Javascript.  There was no specific reason.  That Javascript was an somewhat inferior language just seemed to be general opinion to some - particularly online.  As of writing, I honestly couldn't tell you whether or not Javascript is better than one language or another for a given task; but I'm definitely thinking many of those opinions were way off-base.  Javascript has a very streamlined feel about it, and its accessibility and functionality make it clear why it is has become the code of choice for many businesses. <img src="../images/codecademy_ss.png"> Thus far, I have only completed the Javascript introduction at two online code schools: Codecademy and freeCodeCamp.
+Prior to these past two weeks, I had a generally negative impression of Javascript.  There was no specific reason.  That Javascript was an somewhat inferior language just seemed to be general opinion to some - particularly online.  As of writing, I honestly couldn't tell you whether or not Javascript is better than one language or another for a given task; but I'm definitely thinking many of those opinions were way off-base.  Javascript has a very streamlined feel about it, and its accessibility and functionality make it clear why it is has become the code of choice for many businesses. Thus far, I have only completed the Javascript introduction at two online code schools: Codecademy and freeCodeCamp. 
+
+<img src="../images/codecademy_ss.png" style="float:right;">
+
 	                                 
  
 <h2> The Smoother Cup of Joe </h2>
