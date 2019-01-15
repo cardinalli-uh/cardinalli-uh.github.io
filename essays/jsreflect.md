@@ -35,7 +35,7 @@ labels:
 	let string2 = ‘bcde’;
 ```
 
-<p>In JS, let is used similarly to create arrays and objects.  This sort of improvement over Java gives JS-coding an overall feel and style that makes implementation feel much less tedious.  I’m positive as I become more familiar with JS and its features, I’ll become more aware of its own shortfalls.  However, as of this moment, I’m enjoying Javascript’s simplicity, relative to Java; and I look forward to becoming more familiar with the distinct strengths and weaknesses between Java and JS; and whatever other programming languages I learn going forward with my studies in computer science and software engineering. </p>
+<p>	In JS, <e>let</e> is used similarly to create arrays and objects.  This sort of improvement over Java gives JS-coding an overall feel and style that makes implementation feel much less tedious.  I’m positive as I become more familiar with JS and its features, I’ll become more aware of its own shortfalls.  However, as of this moment, I’m enjoying Javascript’s simplicity, relative to Java; and I look forward to becoming more familiar with the distinct strengths and weaknesses between Java and JS; and whatever other programming languages I learn going forward with my studies in computer science and software engineering. </p>
 
 <h2> A Daily Grind </h2>
 
