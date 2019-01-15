@@ -15,17 +15,11 @@ labels:
 <h2> Waking Up to Javascript </h2>
  
 <img src="../images/codecademy_ss.png" style="float:right;">
-Prior to these past two weeks, I had a generally negative impression of Javascript.  There was no specific reason.  That Javascript was an somewhat inferior language just seemed to be general opinion to some - particularly online.  As of writing, I honestly couldn't tell you whether or not Javascript is better than one language or another for a given task; but I'm definitely thinking many of those opinions were way off-base.  Javascript has a very streamlined feel about it, and its accessibility and functionality make it clear why it is has become the code of choice for many businesses. Thus far, I have only completed the basic Javascript courses at two online code schools: Codecademy and freeCodeCamp.  These introductory courses were relatively simple given I have already studied two semesters of Java; but I'm certain they'll prove useful for referencing syntax, as well as in continuing the development of my skills.  
-
-
-
-
-
-	                                 
+Prior to these past two weeks, I had a generally negative impression of Javascript.  There was no specific reason.  That Javascript was an somewhat inferior language just seemed to be general opinion to some - particularly online.  As of writing, I honestly couldn't tell you whether or not Javascript is better than one language or another for a given task; but I'm definitely thinking many of those opinions were way off-base.  Javascript has a very streamlined feel about it, and its accessibility and functionality make it clear why it is has become the code of choice for many businesses. Thus far, I have only completed the basic Javascript courses at two online code schools: Codecademy and freeCodeCamp.  These introductory courses were relatively simple given I have already studied two semesters of Java; but I'm certain they'll prove useful for referencing syntax, as well as in continuing the development of my skills.  	                                 
  
 <h2> The Smoother Java </h2>
 
-Two community college semesters of Java, capped by two weeks of Javascript, makes me an expert in neither.  Certainly, it will take several more years of study and practice - even after I have attained my degree - before I can hope to be so proficient.  However, there are clear and unavoidable distinctions between the two that even a novice programmer will notice immediately.  Personally, the first thing I noticed when beginning to work with Javascript was how intuitive it is when compared to Java.  For instance, where Java requires specific identification of variables by data-type, ie.: int, float, double, char, string, etc.; Javascript allows the developer to simply: let variable = x; such that, Javascript automatically detects and interprets the data-type.
+Aside from Javascript, I have some experience with the programming language Java.  TO be clear, two community college semesters of Java, capped by two weeks learning Javascript, makes me an expert in neither.  Certainly, it will take several more years of study and practice - even after I have attained my degree - before I can hope to be so proficient.  However, any novice programmer would see that Java and Javascript are incredibly similar to one another. there are clear and unavoidable distinctions between the two that even a novice programmer will notice immediately.  Personally, the first thing I noticed when beginning to work with Javascript was how intuitive it is when compared to Java.  For instance, where Java requires specific identification of variables by data-type, ie.: int, float, double, char, string, etc.; Javascript allows the developer to simply: let variable = x; such that, Javascript automatically detects and interprets the data-type.
 
 ```java
 // Java example:
