@@ -10,8 +10,6 @@ labels:
   - Learning
 ---
 
-<h1> Two Weeks Smelling the Javascript </h1>
-
 <h2> Waking Up to Javascript </h2>
  
 <img src="../images/codecademy_ss.png" style="float:right;">
