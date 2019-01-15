@@ -7,7 +7,9 @@
 
 // Customize the background color
 body {
+  height: 100%;
   background: linear-gradient(to bottom right, lightsalmon, whitesmoke);
+  background-repeat: no-repeat;
 }
 
 // Customize the menubar color
