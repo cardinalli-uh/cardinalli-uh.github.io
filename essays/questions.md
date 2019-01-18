@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+image: dumbQR.png, smartQuestion.png, smartResponse.png
+title: Looking "No Dumb Questions"
+# All dates must be YYYY-MM-DD format!
+date: 2019-01-24
+labels:
+  - Etiquette
+  - Learning
+---
+
+
 <h2>“No Dumb Questions”</h2>
 
   It’s true what they say, there is no such thing as a stupid question.  There are, however, stupid times, places, and situations to ask a question.  For the most part, that’s fairly common sense; but getting these wrong will make a good question look like a dumb question immediately.  I wouldn’t ask my mechanic what ointment I should apply to a rash; just like I wouldn’t ask my doctor if he thinks that ‘rattling noise’ my car is making is being caused by worn-out suspension or a loose timing belt.  If I had asked those questions, I would expect to be met with confusion or derision.  The same logic can be applied to asking questions on the internet; but knowing what, where, and when to ask questions will help make sure they’re the right question for the situation.
