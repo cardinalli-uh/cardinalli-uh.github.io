@@ -28,12 +28,15 @@ labels:
 <h2>Getting Answers</h2>
 
   Even though the vast majority of questions can be answered by utilizing available resources, some questions are much more complicated.  Some answers may not be clear even given the relevant learning resources.  Or someone else may be better suited to make certain connections in the material.  An engineer could exhaust their usual references and then some, and still be stuck without an answer; and so insight from other professionals can be incredibly helpful.  However, when seeking help, the engineer should seek to help their helper by being as versed as possible in their own question.  Making no attempt to answer the question themselves provides potential helpers with no reference point by which to offer assistance; or just as likely, the asker won’t understand the answer even after it is given to them.  Asking “smart” questions in this fashion is a sure way for an engineer to be successful because doing so requires them to seek the answer on their own in order to better inform their own question.  This doesn’t require a question to be excessively complicated or tedious either.  Part of having a question be informed is that it can be as clear and concise as possible, while still containing all relevant information; for instance:
-
+<a href="https://stackoverflow.com/questions/54200988/why-do-we-require-requires-requires">
 <img src="../images/smartQuestion.png">
+</a>
 
   This question about programming syntax is not especially complicated.  It is stated clearly and a clear reason for the question is given - in this case, curiosity.  The person asking displays their understanding of the syntax in question.  They also provided a source to their reference material with a specific snippet directly related to their question.  However, they’re still confused.  This individual is seeking to understand the reason as to why this syntax is used the way it is.  The answer to that question involves language design, and is out of scope for the typical coder; the asker also gave the question an appropriate and interesting title; so in this instance,  it is a good question, and the community responds in kind:
 
+<a href="https://stackoverflow.com/questions/54200988/why-do-we-require-requires-requires">
 <img src="../images/smartResponse.png">
+</a>
 
 Other answers to this question were similarly detailed and helpful.  They also came back nearly immediately.  This contrast between the given examples stands to support the argument that “smart” questions yield solutions.    
 
