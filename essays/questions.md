@@ -32,13 +32,13 @@ labels:
 <img src="../images/smartQuestion.png">
 </a>
 
-  This question about programming syntax is not especially complicated.  It is stated clearly and a clear reason for the question is given - in this case, curiosity.  The person asking displays their understanding of the syntax in question.  They also provided a source to their reference material with a specific snippet directly related to their question.  However, they’re still confused.  This individual is seeking to understand the reason as to why this syntax is used the way it is.  The answer to that question involves language design, and is out of scope for the typical coder; the asker also gave the question an appropriate and interesting title; so in this instance,  it is a good question, and the community responds in kind:
+  This question about programming syntax is not especially complicated.  It is stated clearly and a clear reason for the question is given - in this case, curiosity.  The person asking displays their understanding of the syntax in question.  They also provided a source to their reference material with a specific snippet directly related to their question.  However, they’re still confused.  This individual is seeking to understand the reason as to why this syntax is used the way it is.  The answer to that question involves language design, and is out of scope for the typical coder; in this case, the coder knows the 'how' and the 'what' behind their question, but not the 'why.' The asker also gave the question an appropriate and interesting title.  It is a "smart" question, and the community responds in kind:
 
 <a href="https://stackoverflow.com/questions/54200988/why-do-we-require-requires-requires">
 <img src="../images/smartResponse.png">
 </a>
 
-Other answers to this question were similarly detailed and helpful.  They also came back nearly immediately.  This contrast between the given examples stands to support the argument that “smart” questions yield solutions.    
+Other answers to this question were similarly detailed and helpful - they also came back nearly immediately.  This contrast between the given examples stands to support the argument that “smart” questions yield solutions.    
 
 <h2>With All Due Respect</h2>
 
