@@ -95,7 +95,7 @@
     }
     
   ],
-  "awards": [[
+  "awards": [
     {
       "title": "Good Conduct Medal",
       "date": "2011-11-07",
@@ -103,7 +103,9 @@
       "summary": "For NATO service related to ISAF, during 2009-12-09 - 2010-12-09.",
       "highlights": [
       ]
-    },
+    }
+    
+  ],
   /*  {
       "title": "Paracadutisti Badge",
       "date": "2011-04-11",
