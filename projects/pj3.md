@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Project C
-permalink: projects
+permalink:
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
