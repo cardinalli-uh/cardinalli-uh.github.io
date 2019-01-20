@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: dumbQR.png, smartQuestion.png, smartResponse.png
-title: /"No Dumb Questions/"
+title: "No Dumb Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-24
 labels:
