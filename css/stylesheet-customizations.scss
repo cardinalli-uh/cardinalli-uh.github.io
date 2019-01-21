@@ -9,8 +9,9 @@
 body {
   
   background: linear-gradient(to bottom right, lightsalmon, whitesmoke);
+  background-height: 100%;
   background-repeat: no-repeat;
-  //background-attachment: fixed;
+  background-attachment: fixed;
   background-size: cover;
   margin: 0;
 }
