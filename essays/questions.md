@@ -23,7 +23,7 @@ labels:
 <img  class="ui centered huge image" src="../images/dumbQR.png">
 </a>
 
-  "Looks pretty much defined to me." Ouch. Still, it isn’t that the question itself was “dumb” - understanding how to declare, iterate, and utilize arrays is critical to coding.  However, in this case, the question is either so simple that its answer is fundamentally basic to arrays, and could be easily found by utilizing a search engine, or reading literally any guide on the language; or it is much more complicated than it seems, and too little information was provided to give any clear answer.  Presuming it was the former, a few internet searches would likely have yielded near-immediate results.  Consequently, if you click the screenshot and scroll down to read other responses, even those few saints who actually attempted at a solution - despite the nature of the question - took at least a day to respond.  This is clearly not the way to ask a "smart" question.
+  "Looks pretty much defined to me" - ouch, but 'Eugene Sh.' isn't wrong.  It isn’t that the question itself was “dumb” - understanding how to declare, iterate, and utilize arrays is critical to coding.  However, in this case, the question is either so simple that its answer is fundamentally basic to arrays, and could be easily found by utilizing a search engine, or reading literally any guide on the language; or it is much more complicated than it seems, and too little information was provided to give any clear answer.  Presuming it was the former, a few internet searches would likely have yielded near-immediate results.  Consequently, if you click the screenshot and scroll down to read other responses, even those few saints who actually attempted at a solution - despite the nature of the question - took at least a day to respond.  This is clearly not the way to ask a "smart" question.
 	
 <h2>Getting Answers</h2>
 
@@ -43,3 +43,9 @@ Other answers to this question were similarly detailed and helpful - and they al
 <h2>With All Due Respect</h2>
 
 Aside from the nature of the question itself, the tone of a question is critical.  Consider the doctor metaphor: even if I am going to ask my doctor a ridiculously irrelevant question, I’m going to call them Doctor while I do it; because it does no good to be a moron AND a jerk.  Here again, the same rule applies online.  Just because we’re dealing with avatars instead of faces, doesn’t mean we aren’t still dealing with people.  Reacting to negative responses to questions by being rude or insulting does nothing for finding answers, and may be viewed by the community as a transgression.  A poor question followed-up by a poor attitude will guarantee the question goes nowhere.  However, responding constructively by fine-tuning the question or clarifying key points shows the asker is willing to learn and capable of collaboration.  Sometimes it is less about the mistake and more about the recovery.  Acknowledging a mistake and learning from it is far more respectable than starting a "flame war" because of 'hurt' feelings.  The best bet is to only ask "smart" questions as often as possible.
+
+<h1> In case you could not see the screenshots, here are links to the two questions: </h1>
+
+The "dumb": <a hred="https://stackoverflow.com/questions/32212712/how-to-find-length-of-array-of-undefined-size"></a>
+
+The "smart":<a href="https://stackoverflow.com/questions/54200988/why-do-we-require-requires-requires"></a>
