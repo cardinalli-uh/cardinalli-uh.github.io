@@ -9,7 +9,7 @@ labels:
   - Javascript
   - Learning
 ---
-<h2> THIS IS A TEST OF LOCAL GIT </h2>
+
 <h2> Waking Up to Javascript </h2>
  
 <img src="../images/codecademy_ss.png" style="float:right;">
