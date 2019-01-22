@@ -7,7 +7,6 @@ permalink:
 date: 2009-11-24
 labels:
   - military
- 
 summary: I deployed to Afghanistan with Operation Enduring Freedom in 2010.
 ---
 
