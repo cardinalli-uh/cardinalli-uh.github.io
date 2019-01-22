@@ -46,6 +46,6 @@ Aside from the nature of the question itself, the tone of a question is critical
 
 <h1> In case you could not see the screenshots, here are links to the two questions: </h1>
 
-The "dumb": <a hred="https://stackoverflow.com/questions/32212712/how-to-find-length-of-array-of-undefined-size"></a>
+The "dumb": <a href="https://stackoverflow.com/questions/32212712/how-to-find-length-of-array-of-undefined-size"> How to find the length of Array of Undefined size?</a>
 
-The "smart":<a href="https://stackoverflow.com/questions/54200988/why-do-we-require-requires-requires"></a>
+The "smart":<a href="https://stackoverflow.com/questions/54200988/why-do-we-require-requires-requires"> Why do we require requires requires?</a>
