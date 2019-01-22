@@ -9,7 +9,7 @@ date: 2018-10-13
 labels:
   - volunteering
   - conservation
-summary: Volunteered at Diamond Head Crater.
+summary: Volunteering at Diamond Head Crater in Hawaii.
 ---
 
 I began volunteering at Oahu’s Diamond Head in October of 2018 to meet a grade requirement for a college course.  The volunteer project required a 20 hour contribution; as of writing, I have volunteered just shy 40 total hours to conserving the crater.  As Oahu’s most visited tourist site, Diamond Head Crater receives an average of 3,000 daily visitors during the busy season.  The majority of these visitors do so respectfully; regardless, largely due to human activity, the crater’s unique ecosystem remains susceptible to degradation.  More often than not, humans are either unaware of, or indifferent to, their impact.  By volunteering at Diamond Head, I have been able to directly contribute to the well-being of the crater.  
