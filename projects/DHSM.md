@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: images/diamond-head.jpg
 title: Diamond Head Service Project
 permalink:
 # All dates must be YYYY-MM-DD format!
