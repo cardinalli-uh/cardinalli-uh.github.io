@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: images/AfghanFlag.png
 title: Military Deployment
 permalink:
 # All dates must be YYYY-MM-DD format!
