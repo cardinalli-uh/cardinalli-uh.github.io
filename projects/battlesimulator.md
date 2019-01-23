@@ -14,6 +14,7 @@ summary: A simple text-based battle simulator I created for a college course.
   This text-based game is intended to model the Pokemon videogames.  I created the project using Java for an 'Introduction to Computer Science' course. It allows two players to choose monsters, and command them in a head to head fight.
   
   Some classes were already provided or needed only minor adjusments.  The first pokemon object, Bulbasaur.java, was given as a template for the rest. The code for the battle simulator, PokeBattle.java, was implemented from scratch by myself; along with the player object, Trainer.java.  To make the main method as clean as possible, it was completed using a single method call.
+  
   ```
   //PokeBattle.java's main method:
   
@@ -46,8 +47,7 @@ summary: A simple text-based battle simulator I created for a college course.
 	} // end of main driver
   ```
   
-  The project was created by combining the use of abstract types, subclasses, methods, user input, and interfaces.  The choice to complete it with a single method, switchBoard(p1,p2), was a self driven challenge to make the code as modular as possible.  WOrking in this way helped me learn more about using method calls and parameters to keep code as succinct as possible.
+  The project was created by combining the use of abstract types, subclasses, methods, user input, and interfaces.  The choice to complete it with a single method, switchBoard(p1,p2), was a self driven challenge to make the code as modular as possible.  WOrking in this way helped me learn more about using method calls and parameters to keep code as succinct as possible. </a><a href="https://github.com/cardinalli-uh/battlesim/tree/dev">See more here!</a>
 
 <a href="https://github.com/cardinalli-uh/battlesim/tree/dev">
-<img class="ui centered rounded large image" src="/images/ssbattlesimrepo.png">
-</a><a href="https://github.com/cardinalli-uh/battlesim/tree/dev">See more here!</a>
+<img class="ui centered rounded huge image" src="/images/ssbattlesimrepo.png">
