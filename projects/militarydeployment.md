@@ -25,7 +25,7 @@ summary: I deployed to Afghanistan with Operation Enduring Freedom in 2010.
 
 
   <img class="ui centered rounded huge image" src="/images/deployment_mountains.jpg">
-  <i>(above)The life of a billy-goat; (below) A view of some villages from a helicopter.</i>
+  <i>(above)The life of a billy-goat.</i>
 
 
 <p>   
