@@ -5,7 +5,7 @@ image: images/java.png
 title: Battle Simulation Game
 permalink:
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-13
+date: 2018-03-20
 labels:
   - java
 summary: A simple text-based battle simulator I created for a college course.
@@ -47,7 +47,7 @@ summary: A simple text-based battle simulator I created for a college course.
 	} // end of main driver
   ```
   
-  The project was created by combining the use of abstract types, subclasses, methods, user input, and interfaces.  The choice to complete it with a single method, switchBoard(p1,p2), was a self driven challenge to make the code as modular as possible.  WOrking in this way helped me learn more about using method calls and parameters to keep code as succinct as possible. </a><a href="https://github.com/cardinalli-uh/battlesim/tree/dev">See more here!</a>
+  The project was created by combining the use of abstract types, subclasses, methods, user input, and interfaces.  The choice to complete it with a single method, switchBoard(p1,p2), was a self driven challenge to make the code as modular as possible.  WOrking in this way helped me learn more about using method calls and parameters to keep code as succinct as possible. <a href="https://github.com/cardinalli-uh/battlesim/tree/dev">See more here!</a>
 
 <a href="https://github.com/cardinalli-uh/battlesim/tree/dev">
 <img class="ui centered rounded huge image" src="/images/ssbattlesimrepo.png">
