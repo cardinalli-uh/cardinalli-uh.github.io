@@ -33,4 +33,4 @@ My year in Afghanistan gave me firsthand life experience that can't be quantifie
 <div class="ui large rounded images">
   <img class="ui image" src="/images/deployment_helicopter.jpg">
   </div>
-<h1>Fun fact: This helicopter isn't flying low - we're just up very high.</h1>
+<h3>Fun fact: This helicopter isn't flying low - we're just up very high.</h3>
