@@ -31,7 +31,7 @@
   "interests": [
     {
       "name": "software engineering",
-      "keywords": [ //appear only on resume
+      "keywords": [
         
       ]
     },
@@ -44,7 +44,13 @@
       "name": "artificial intelligence",
       "keywords": [
       ]
-    }
+    },
+    {
+      "name": "conservation",
+      "keywords": [
+        
+      ]
+    },
   ],
   "skills": [
     {
