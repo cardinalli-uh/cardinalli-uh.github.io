@@ -17,7 +17,8 @@ summary: A simple text-based battle simulator I created for a college course.
   
   Some classes were already provided or needed only minor adjusments, such as the abstract class <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Pokemon.java">Pokemon</a>; as well as the types.  The pokemon object, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Bulbasaur.java">Bulbasaur</a>, was given as a template for the rest. The code for the battle simulator, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/PokeBattle.java">PokeBattle</a>, was implemented from scratch by myself; along with the player object, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Trainer.java">Trainer</a>.  To make the main method as clean as possible, it was completed using a single method call.
   
-  ```
+  ```java
+  
   //PokeBattle.java's main method:
   
   public static void main(String[] args) {
