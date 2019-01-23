@@ -13,5 +13,5 @@ summary: A simple text-based battle simulator.
 
 
 <a href="https://github.com/cardinalli-uh/battlesim/tree/dev">
-<img class="ui centered rounded huge image" src="images/ssbattlesimrepo.png">
+<img class="ui centered rounded huge image" src="/images/ssbattlesimrepo.png">
 </a>
