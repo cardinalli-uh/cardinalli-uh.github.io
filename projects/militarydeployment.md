@@ -11,7 +11,7 @@ labels:
 summary: I deployed to Afghanistan with Operation Enduring Freedom in 2010.
 ---
 
-<p> While enlisted in the US Army I deployed to Afghanistan.  I was assigned to the 173rd Airborne Brigade's 1-503rd Infantry Regiment in Vicenza, Italy.  I served in Afghanistan with the 1-503rd's battalion scout platoon.  The scout platoon's mission took us all over Afghanistan's Maidan Wardak province, which is a rural region to the southwest of Kabul.  The scouts were deployed in order to provide defensive overwatch, counter snipers, identify and eliminate high value targets, prevent the emplacement of improvised explosive devices, setup ambushes and counter ambushes, and even carry-out the occasional 'secret squirrel' mission.
+<p> While enlisted in the US Army I deployed to Afghanistan.  I was assigned to the 173rd Airborne Brigade's 1-503rd Infantry Regiment in Vicenza, Italy.  I served in Afghanistan with the 1-503rd's battalion scout platoon.  The scout platoon's mission took us all over Afghanistan's Maidan Wardak province, which is a rural region to the southwest of Kabul.  The scouts were deployed in order to provide defensive overwatch, counter snipers, identify and eliminate high value targets, prevent the emplacement of improvised explosive devices, setup ambushes and counter ambushes, and even carry-out the occasional 'secret squirrel' mission.  
 </p>   
   
 
