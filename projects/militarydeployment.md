@@ -16,6 +16,7 @@ While enlisted in the US Army I deployed to Afghanistan.  I was assigned to the 
   
 
   <img class="ui centered rounded large image" src="/images/deployment_tangi.jpg">
+  
   <img class="ui centered rounded large image" src="/images/deployment_town.jpg">
 
   
@@ -24,6 +25,7 @@ As the platoon's medic, I provided all support to the platoon and its members du
 
 
   <img class="ui centered rounded large image" src="/images/deployment_mountains.jpg">
+  
   <img class="ui centered rounded large image" src="/images/deployment_villages.jpg">
 
 
