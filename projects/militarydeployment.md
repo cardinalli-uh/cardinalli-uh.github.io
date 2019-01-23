@@ -18,10 +18,12 @@ As the platoon's medic, I provided all medical support to the platoon and its me
 
 <div class="ui medium rounded images">
   <img class="ui image" src="/images/deployment_tangi.jpg">
-  <img class="ui image" src="/images/deployment_villages.jpg">
   <img class="ui image" src="/images/deployment_town.jpg">
+  
+</div>
+<div class="ui medium rounded images">
+  <img class="ui image" src="/images/deployment_villages.jpg">
   <img class="ui image" src="/images/deployment_mountains.jpg">
-  <img class="ui image" src="/images/deployment_helicopter.jpg">
 </div>
 
   
