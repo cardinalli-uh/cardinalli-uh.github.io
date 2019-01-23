@@ -23,31 +23,31 @@ summary: A simple text-based battle simulator I created for a college course.
   
   public static void main(String[] args) {
 
-		// creates Trainers(Players)
-		Trainer p1 = new Trainer();
-		Trainer p2 = new Trainer();
+	// creates Trainers(Players)
+	Trainer p1 = new Trainer();
+	Trainer p2 = new Trainer();
 
-		System.out.println("WELCOME! TO POKEMON FIGHT CLUB!!");
-		delay();
-		System.out.println("Two Trainers enter!  One Trainer leaves!");
-		delay();
-		System.out.println("  TEST YOUR MIGHT!  POKE'FIGHT!!!!  ");
-		delay();
+	System.out.println("WELCOME! TO POKEMON FIGHT CLUB!!");
+	delay();
+	System.out.println("Two Trainers enter!  One Trainer leaves!");
+	delay();
+	System.out.println("  TEST YOUR MIGHT!  POKE'FIGHT!!!!  ");
+	delay();
 
-		do {
-			System.out.println("************MAIN MENU************");
-			System.out.println("1:  Choose Pokemon for Trainer 1");
-			System.out.println("2:  Choose Pokemon for Trainer 2");
-			System.out.println("3:  Battle");
-			System.out.println("4:  View Stats for Chosen Pokemon");
+	do {
+		System.out.println("************MAIN MENU************");
+		System.out.println("1:  Choose Pokemon for Trainer 1");
+		System.out.println("2:  Choose Pokemon for Trainer 2");
+		System.out.println("3:  Battle");
+		System.out.println("4:  View Stats for Chosen Pokemon");
+		choice = input.nextLine();
 
-			choice = input.nextLine();
-
-			switchBoard(p1, p2); //primary function of main
+		switchBoard(p1, p2); //primary function of main
 			
-		} while (true);
+	} while (true);
 
-	} // end of main driver
+} // end of main driver
+
   ```
   
   The project was created by combining the use of abstract types, subclasses, inheritance, methods, user input, and interfaces.  The choice to complete the main method using only a single method, switchBoard(p1,p2), was a self driven challenge to make the code's methods as modular as possible.  Working in this way helped me learn more about using method calls and parameters to keep code as succinct as possible. <a href="https://github.com/cardinalli-uh/battlesim/tree/dev">See more here!</a>
