@@ -5,7 +5,7 @@ image: images/AfghanFlag.png
 title: Military Deployment
 permalink:
 # All dates must be YYYY-MM-DD format!
-date: 2009-11-24
+date: 2009-12-09
 labels:
   - military
 summary: I deployed to Afghanistan with Operation Enduring Freedom in 2010.
