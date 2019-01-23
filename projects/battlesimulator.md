@@ -8,6 +8,8 @@ permalink:
 date: 2018-03-20
 labels:
   - java
+  - game development
+  - object-oriented programming
 summary: A simple text-based battle simulator I created for a college course.
 ---
 
@@ -15,7 +17,7 @@ summary: A simple text-based battle simulator I created for a college course.
 
   This text-based game is intended to model the Pokemon videogames.  I created the project using Java for an 'Introduction to Computer Science' course. It allows two players to choose monsters, and command them in a head to head fight.
   
-  Some classes were already provided or needed only minor adjusments, such as the abstract class <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Pokemon.java">Pokemon</a>; as well as the types.  The pokemon object, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Bulbasaur.java">Bulbasaur</a>, was given as a template for the rest. The code for the battle simulator, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/PokeBattle.java">PokeBattle</a>, was implemented from scratch by myself; along with the player object, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Trainer.java">Trainer</a>.  To make the main method as clean as possible, it was completed using a single method call.
+  Some classes were already provided or needed only minor adjusments, such as the abstract class <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Pokemon.java">Pokemon</a>; as well as the various types.  The pokemon object, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Bulbasaur.java">Bulbasaur</a>, was given as a template for the rest of the pokemon objects. The code for the battle simulator, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/PokeBattle.java">PokeBattle</a>, was implemented from scratch by myself; along with the player object, <a href="https://github.com/cardinalli-uh/battlesim/blob/dev/Trainer.java">Trainer</a>.  To make the main method as clean as possible, it was completed using a single method call.
   
   ```java
   
