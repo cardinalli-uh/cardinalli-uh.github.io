@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/java.png
 title: Battle Simulation Game
 permalink:
 # All dates must be YYYY-MM-DD format!
