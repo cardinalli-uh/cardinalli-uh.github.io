@@ -13,7 +13,7 @@ labels:
 
 <h2>Asking the Right Question  </h2>
 
-<p>	It’s true what they say, there is no such thing as a stupid question.  There are, however, stupid times, places, and situations to ask a question.  For the most part, that’s fairly common sense; but getting these wrong will make a good question look like a dumb question immediately.  The next time I get an oil-change, I'm not going to ask my mechanic what ointment I should apply to a rash; just like I wouldn’t ask my doctor about that ‘rattling noise’ my car is making at my next check-up.  If I had asked those questions, in this circumstances, I would expect to be met with confusion or derision.  The same logic can be applied to asking questions on the internet; but knowing what, where, and when to ask questions will help make sure they’re the right question for the situation.
+<p>	It’s true what they say, there is no such thing as a stupid question.  There are, however, stupid times, places, and situations to ask a question.  For the most part, that’s fairly common sense; but getting these wrong will make a good question look like a dumb question immediately.  The next time I get an oil-change, I'm not going to ask my mechanic what ointment I should apply to a rash; just like I wouldn’t ask my doctor about that ‘rattling noise’ my car is making at my next check-up.  If I had asked those questions, in these circumstances, I would expect to be met with confusion or derision.  The same logic can be applied to asking questions on the internet; but knowing what, where, and when to ask questions will help make sure they’re the right question for the situation.
 </p> 
 
 <h2>Engineering Whos, Whats, Wheres, and Whens into Hows</h2>
