@@ -25,11 +25,18 @@ Considering the given passage, it should be clear why punctuation is required by
 
 //this is an example of code with poor standards
 
-const stooges = ['Curly', 
+const stooges 
+= ['Curly', 
 'Larry', 
 'Moe'];
-function helloeverybody(stooges) { for (let i = 0; i < array.length; i++) {
-console.log("Hello " + array[i] + "!");}}
+function 
+helloeverybody
+(array) 
+{ for (let i = 0; 
+i < array.length; 
+i++) 
+{console.log("Hello " 
++ array[i] + "!");}}
 ```
 
 ```javascript
@@ -37,8 +44,7 @@ console.log("Hello " + array[i] + "!");}}
 //this is an example of code with good standards
 
 const stooges = ['Curly', 'Larry', 'Moe'];
-
-function helloEverybody(stooges) {
+function helloEverybody(array) {
     for (let i = 0; i < array.length; i++) {
         console.log("Hello " + array[i] + "!");
     }
@@ -46,8 +52,8 @@ function helloEverybody(stooges) {
 ```
 
 <h2></h2>
-Guidelines, or rules that dictate how code should be formatted are known as “coding standards.”  Similar to good literature that has been improperly punctuated, code that doesn’t adhere to basic coding standards can be near illegible; however, like punctuation, coding standards can be relatively loose.  That is to say, an author or coder may adapt a certain style of their own.  As code goes, it may seem fine enough as long as the compiler can piece it together and function appropriately; but not adhering to some type of standard - even just an internal one - will eventually be cause for confusion.  When coding, a program rarely comes together in the first try - debugging is a matter of course for a coder.  And it is while debugging and reviewing code that the benefits of coding standards really become evident.  Namely, it is a matter of readability.  Familiarity with a standard means knowing when and where code elements should be; in turn making it much simpler for any coder to spot potential errors or understand how code executes within a code-snippet.
+Guidelines, or rules, that dictate how code should be formatted are known as “coding standards.”  Note that the above code examples have identical content. Only their formats are different.  They both compile perfectly, and return the desired results.  Still, the second example is much easier on the eyes.  Very much like good literature that has been improperly punctuated, code that doesn’t adhere to basic coding standards can be near illegible; however, like punctuation, coding standards can still be relatively loose.  That is to say, an author or coder may adapt a certain style of their own into their code.  This should be fine as long as the more ubiquitous standards are observed, and the format is consistent.  As code goes, it may seem fine enough as long as the compiler can piece it together and function appropriately; but not adhering to some type of standard - even just an internal one - will eventually be cause for confusion.  When coding, a program rarely comes together in the first try - debugging is a matter of course for a coder.  And it is while debugging and reviewing code that the benefits of coding standards really become evident.  Namely, it is a matter of readability.  Familiarity with a standard means knowing when and where code elements should be; in turn making it much simpler for any coder to spot potential errors or understand how code executes within a code-snippet.  Keeping code standardized also helps the coder spot things like a missing curly bracket, or close-parenthesis - these are just minor type-errors, but they will prevent a code from compiling and potentially cause wasted time if the problem isn't located immediately.
 
 <h2></h2>
-Over the past week I have been coding using the IntelliJ IDE (Integrated Development Environment) with ESLint - an automatic code-standard inspection tool.  The advantage of tools like ESLint is that they inform the coder when their code is not up to the set standard.  The disadvantage is that becoming accustomed to one standard can make changing standards a bit tedious.  For instance, the coding standard I am using currently allows for significantly less ‘white’ space than previous coding standards I have used; and I often find myself removing blank lines before ESLint gives me the all-clear.  However, that blank lines are all I have to change is testament to the other benefit of coding standards.  They ingrain a certain technique and help a coder immediately recognize their mistakes - thus, no need to wait for the compiler to realize any minor mistakes.  In that process, the coder is able to actively recognize their bad habits.  Despite their usefulness, even the best coding standards can’t do always do much for flawed math or logic; but their ability to aid in the recognition of syntax errors frees up time for debugging more complicated problems.  In that way, ESLint and other coding standards plugins are fantastic utilities for increasing productivity.
+To help minimize those pesky type-errors, over the past week I have been coding using the IntelliJ IDE (Integrated Development Environment) with ESLint - an automatic code-standard inspection tool.  The advantage of tools like ESLint is that they inform the coder when their code is not up to the set standard.  The disadvantage is that becoming accustomed to one standard can make changing standards a bit tedious.  For instance, the coding standard I am using currently allows for significantly less ‘white’ space than previous coding standards I have used; and I often find myself removing blank lines before ESLint gives me the all-clear.  However, that blank lines are all I have to change is testament to another benefit of coding standards.  They ingrain a certain technique and help a coder immediately recognize their mistakes - thus, no need to wait for the compiler to realize any minor mistakes.  In that process, the coder is able to actively recognize their bad habits.  Despite their usefulness, even the best coding standards can’t do always do much for flawed math or logic; however, their ability to aid in the recognition of syntax errors frees up time for debugging more complicated problems.  In that way, ESLint and other coding standards plugins are fantastic utilities for increasing productivity.
 
