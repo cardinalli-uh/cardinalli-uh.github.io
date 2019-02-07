@@ -23,7 +23,7 @@ If you're like me, that second passage is at least a little bit more stirring.  
 
 
 <h2>Coding as Expected</h2>
-The need for punctuation exists in programming languages for the same reasons it exists in English; except, code is pretty much just punctuation marks and operators anyway - so punctuation already needs to be used to specification. In software development, guidelines which dictate how code should be formatted are known as “coding standards,” which work for code a lot like punctuation works for English.  Here's a visualization which may convey this point better:
+The need for punctuation exists in programming languages for the same reasons it exists in English; except, code is pretty much just punctuation marks and operators anyway.  So unlike in English, erroneous punctuation typically prevents code from compiling in the first place.  Therefore, the actual use of punctuation marks is typically well-specified within code. In software development, expectations regarding how code should be formatted are known as “coding standards,” which work for code a lot like punctuation works for English.  Here's a visualization which may convey this point better:
 
 ```javascript
 
