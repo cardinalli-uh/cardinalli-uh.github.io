@@ -1,4 +1,5 @@
 ---
+
 layout: essay
 type: essay
 image:
@@ -7,6 +8,7 @@ title: Final Idea: UHike
 date: 2019-03-25
 labels:
   - final project
+  
 ---
 
 <h2>Overview:</h2>
