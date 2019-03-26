@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Final Idea: UHike
+title: Final Idea - UHike
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-25
 labels:
