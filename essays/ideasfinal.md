@@ -7,6 +7,7 @@ date: 2019-03-25
 labels:
   - Final
 ---
+
 <h2>Overview:</h2>
 
 The Problem:   Oahu is home to fantastic hiking trails, but hiking solo can be dangerous, and most students don't know the trails.
