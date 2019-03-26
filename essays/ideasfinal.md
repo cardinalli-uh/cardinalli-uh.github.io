@@ -51,7 +51,7 @@ Contacts Page
 
 -Group text notifications
 
--Allow for check-in (user alters system they have arrived at trailhead)
+-Allow for check-in (user alerts system they have arrived at trailhead)
 
 -Allow trails to be rated/reviewed.
 
