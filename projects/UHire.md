@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo.png
+image: images/Logo.png
 title: UHire
 permalink:
 # All dates must be YYYY-MM-DD format!
