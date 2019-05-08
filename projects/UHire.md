@@ -1,7 +1,7 @@
  ---
 layout: project
 type: project
-image: images/logo.png
+image: images/Logo.png
 title: UHire
 permalink:
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
   - web development
   - education
   - teamwork
-summary: A job posting website I helped develop during ICS319 at UHM.
+summary: A job posting website I helped develop during ICS314 at UHM.
 ---
 
 <div>
