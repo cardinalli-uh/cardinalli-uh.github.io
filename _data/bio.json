@@ -54,13 +54,32 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
+	"HTML/CSS",
+	"React",
+	"Semantic UI",
+	"Meteor",
+	"Mongo DB",
+      ]
+    },
+{
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "Ubuntu",
+        "Eclipse",
+        "Intellij",
+	"Github/Git",
+	"",
+	"Meteor",
+	"Mongo DB",
       ]
     }
   ],
