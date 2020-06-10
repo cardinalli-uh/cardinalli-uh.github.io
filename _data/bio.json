@@ -106,15 +106,15 @@
       ]
     }
   ],
-	/*
+/*
   "volunteer": [
     {
-      "organization": "Diamond Head State Monument",
-      "website": "https://hawaiistateparks.org/parks/oahu/diamond-head-state-monument/",
-      "position": "Volunteer",
-      "startDate": "2018-10-13",
-      "endDate": "Present",
-      "summary": "Aid in efforts to conserve the natural beauty of the park.",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
       ]
     }
