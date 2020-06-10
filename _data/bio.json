@@ -77,9 +77,8 @@
         "Eclipse",
         "Intellij",
 	"Github/Git",
-	"",
 	"Meteor",
-	"Mongo DB",
+	
       ]
     }
   ],
@@ -107,6 +106,7 @@
       ]
     }
   ],
+	/*
   "volunteer": [
     {
       "organization": "Diamond Head State Monument",
@@ -120,6 +120,7 @@
     }
     
   ],
+  */
   "awards": [
     {
       "title": "Good Conduct Medal",
